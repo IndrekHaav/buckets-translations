@@ -286,8 +286,8 @@ const messages:IMessages = {
     h: "aP72arzLN/j79zGtL8DWE7wcBGciRcWqMOR1aTHJmNo=",
   },
   "CSV Account": {
-    val: "CSV Account",
-    translated: false,
+    val: "CSV konto",
+    translated: true,
     h: "iUtlYMX6nlvjb8WPFElRbcnOQ/BXPc6BjaHKp6b6GUM=",
   },
   "CSV Fields": {
@@ -307,8 +307,8 @@ const messages:IMessages = {
   },
   "Cancel": {
     /* Button label */
-    val: "Cancel",
-    translated: false,
+    val: "Katkesta",
+    translated: true,
     h: "wHdMGFBg/BNmqwwBSIr4TrXk4fT1kilDHgZN5z4N5sU=",
   },
   "Cancel sync": {
@@ -384,14 +384,14 @@ const messages:IMessages = {
   },
   "Cleared": {
     /* Tooltip text indicating that a transaction has cleared. */
-    val: "Cleared",
-    translated: false,
+    val: "Arveldatud",
+    translated: true,
     h: "j1SmbPuDDBP04XfOH9NNFCDzXmB9xAzSoVG7RcHcdBg=",
   },
   "Cleared balance": {
     /* Label for balance minus uncleared transactions */
-    val: "Cleared balance",
-    translated: false,
+    val: "Arveldatud saldo",
+    translated: true,
     h: "3SpY0eBe4gJ1WtupFnV904/a1Xlfx5Y4ybAdHQGzGV0=",
   },
   "Click the \"Set mapping\" to continue.": {
@@ -523,8 +523,8 @@ const messages:IMessages = {
     h: "+kuX06pgC809fwr+5h9VbC8sVgVWo6EXgg6bzfXXtJs=",
   },
   "Date Posted": {
-    val: "Date Posted",
-    translated: false,
+    val: "Kuupäev",
+    translated: true,
     h: "3A+vhaBB21UASdnwmNYVGMV9qH/U43D3DCsVSXlWasY=",
   },
   "Debt": {
@@ -550,8 +550,8 @@ const messages:IMessages = {
     h: "zTJTocYLEbNVwJ0ojyPCB6M0JpGx6fe6AZHWtuVJv0M=",
   },
   "Delete Connection": {
-    val: "Delete Connection",
-    translated: false,
+    val: "Kustuta ühendus",
+    translated: true,
     h: "o6bxlUpjZFFTleiRLA4ykeB3yEHsAiXW9usUdJ9jh1g=",
   },
   "Delete Group": {
@@ -595,8 +595,8 @@ const messages:IMessages = {
     h: "b4hrUuVyQY42ZQnEyYvmBHmzVT6WcHo30VshIQAx3zQ=",
   },
   "Done": {
-    val: "Done",
-    translated: false,
+    val: "Tehtud",
+    translated: true,
     h: "FlUsJYC76LgtNYLenrPiDvDgAVk3wLT14rwyk2hHYiY=",
   },
   "Download": {
@@ -671,33 +671,33 @@ const messages:IMessages = {
     h: "/ErBlknw7o83xx0uIDCjdDA4u5bAwnNZuhFd2GV1Zcw=",
   },
   "Error fetching data": {
-    val: "Error fetching data",
-    translated: false,
+    val: "Viga andmete pärimisel",
+    translated: true,
     h: "z94B0956dECmmaMVLZFW0oZMVtA92etw+2ZqumR4K9Q=",
   },
   "Error importing": {
-    val: "Error importing",
-    translated: false,
+    val: "Viga importimisel",
+    translated: true,
     h: "rekzwWcY0HRZEhFebX1fJrp4aDJ/NTPxIwWaCYAk+7k=",
   },
   "Error parsing response": {
-    val: "Error parsing response",
-    translated: false,
+    val: "Viga vastuse lugemisel",
+    translated: true,
     h: "PsIRbom+m8Y5OIEPW2rzJYVlNA2NQrZmEQnpW7Y/9KI=",
   },
   "Error running recording": {
-    val: "Error running recording",
-    translated: false,
+    val: "Viga salvestuse esitamisel",
+    translated: true,
     h: "eE9Fw8G4vQpND3fFWnfGNvtN5LxCcQQecWO6fQgBmpM=",
   },
   "Error running sync": {
-    val: "Error running sync",
-    translated: false,
+    val: "Viga sünkroonimisel",
+    translated: true,
     h: "LB/WNzHp4orPsbCVEJuDzUPsQUfNRDNXw7sFnbzfguw=",
   },
   "Error updating transaction": {
-    val: "Error updating transaction",
-    translated: false,
+    val: "Viga tehingu uuendamisel",
+    translated: true,
     h: "IEJfuOO0LRCEv2OUh8Cz02PtiJ8tqVTRzeXK5DyqBQs=",
   },
   "Expenses": {
@@ -915,8 +915,8 @@ const messages:IMessages = {
     h: "rLgGF32tMx7KSWu+vRLEbr+IbkedxhS8ELcYZhNCqTs=",
   },
   "In": {
-    val: "In",
-    translated: false,
+    val: "Sisse",
+    translated: true,
     h: "TcCPpYF7/U7vM5pPmpqvJipZt0WPk3A/vC7Ec8pfDvo=",
   },
   "In/Out": {
@@ -925,8 +925,8 @@ const messages:IMessages = {
     h: "G/e+QHikQOjTM9bcDBrmUZj6ONRstDFt17sNXu9zUd8=",
   },
   "Include log file": {
-    val: "Include log file",
-    translated: false,
+    val: "Lisa logifail",
+    translated: true,
     h: "rjy01ggb0uSRPn/tmrf/BVwGQiXaaSc6Nh+o92BIU3U=",
   },
   "Income": {
@@ -1019,13 +1019,13 @@ const messages:IMessages = {
     h: "H6JLSQVzeo1QvqYd6ewWITP1MyGheSF5eFCeaP6nQwk=",
   },
   "Language default": {
-    val: "Language default",
-    translated: false,
+    val: "Keele vaikeseade",
+    translated: true,
     h: "B22VmGf23mHOBpC02z4zdK4P34035w3nWPUR86u0Dgg=",
   },
   "Last used": {
-    val: "Last used",
-    translated: false,
+    val: "Viimati kasutatud",
+    translated: true,
     h: "G5a6Jdor9jRT/Wtcg9SfXQsvqL7VFvnVD2+gq7yT1Jg=",
   },
   "Later": {
@@ -1077,14 +1077,14 @@ const messages:IMessages = {
   },
   "Mark Cleared": {
     /* Name of action for marking a transaction as having cleared the bank */
-    val: "Mark Cleared",
-    translated: false,
+    val: "Märgi arveldatuks",
+    translated: true,
     h: "Z+NICH1z9EYN3Ub7Z9idiTw/t+QaDF9n3h9br9WhjgE=",
   },
   "Mark Not Cleared": {
     /* Name of action for marking a transaction as not having cleared the bank */
-    val: "Mark Not Cleared",
-    translated: false,
+    val: "Märgi broneerituks",
+    translated: true,
     h: "4VoXUMr4nLIoyueiB8YlIR9HFGPYBhYxJq/cqqwDLs0=",
   },
   "Medical": {
@@ -1134,8 +1134,8 @@ const messages:IMessages = {
   },
   "Name": {
     /* Remote device name */
-    val: "Name",
-    translated: false,
+    val: "Nimi",
+    translated: true,
     h: "bMXfNfAzjiMOnmM+rZmR8I9iyrRaMmSXja7cZ0eGcwU=",
   },
   "Natural gas/propane/oil": {
@@ -1236,8 +1236,8 @@ const messages:IMessages = {
     h: "MKsAG2u3PyHfYzTNB+XEA8Myeu1DiSU2HNpIW8QXTpc=",
   },
   "No matches found": {
-    val: "No matches found",
-    translated: false,
+    val: "Vasteid ei leitud",
+    translated: true,
     h: "p4er9wMKH/YiF5PrBRKpfEzR8HINC3N0d9Iol4zqgtQ=",
   },
   "No name": {
@@ -1267,8 +1267,8 @@ const messages:IMessages = {
   },
   "Not yet cleared": {
     /* Tooltip text indicating that a transaction has not yet cleared. */
-    val: "Not yet cleared",
-    translated: false,
+    val: "Broneeritud",
+    translated: true,
     h: "Hf/KSsxHfxvXx0udkqgCw/QkkE8Vi5ex9pdYnX6qzEU=",
   },
   "Note": {
@@ -1314,8 +1314,8 @@ const messages:IMessages = {
   },
   "Open Anyway": {
     /* Label for button to indicate that a budget file should be opened even though it was made with a newer version of Buckets */
-    val: "Open Anyway",
-    translated: false,
+    val: "Ava sellegipoolest",
+    translated: true,
     h: "C3I8WidkzZOLAGX0ypckK7pR7+e/M/X/YVIV1GCTYms=",
   },
   "Open Buckets Budget": {
@@ -1344,8 +1344,8 @@ const messages:IMessages = {
     h: "BrKgvN0SgW410a7e11V3gP+FgW67iTGIY+o/cKI1Ftk=",
   },
   "Optional message:": {
-    val: "Optional message:",
-    translated: false,
+    val: "Valikuline sõnum:",
+    translated: true,
     h: "zVM8610w5Mn1yRIYOsmOY5ZxBd2KLIudsimw610auYU=",
   },
   "Optionally request an Amazon Refunds report": {
@@ -1360,19 +1360,19 @@ const messages:IMessages = {
   },
   "Order": {
     /* Label for an Amazon order row */
-    val: "Order",
-    translated: false,
+    val: "Tellimus",
+    translated: true,
     h: "Ggkvvwng4JyzP26RBZ9LrevWhrb766Qq+yTffZWmefg=",
   },
   "Orders": {
     /* List of orders */
-    val: "Orders",
-    translated: false,
+    val: "Tellimused",
+    translated: true,
     h: "0W3ENYY4AiEiX9CGdCzK/r0XLyqTqbYi8N91GQpTqnM=",
   },
   "Out": {
-    val: "Out",
-    translated: false,
+    val: "Välja",
+    translated: true,
     h: "v4Oj0CQx7cmHP4mcJsZX4xMTzMzeFS81XA9gU3qOFKU=",
   },
   "Pair code": {
@@ -1387,13 +1387,13 @@ const messages:IMessages = {
     h: "PyUeXNOVYhNDM/De1HIPLeiwy6d+x7bkZphOo5ZqR6Q=",
   },
   "Paste": {
-    val: "Paste",
-    translated: false,
+    val: "Kleebi",
+    translated: true,
     h: "n2Hnio0AcQPZejqQ+hm35GthBg0zYDNoxd8RCFRUhu4=",
   },
   "Paste and Match Style": {
-    val: "Paste and Match Style",
-    translated: false,
+    val: "Kleebi ja ühilda stiil",
+    translated: true,
     h: "w8hRIxBBNWtXNPcYtQ4t/mTHfPF66U/mJbVpOiIDgYE=",
   },
   "Paused": {
@@ -1402,8 +1402,8 @@ const messages:IMessages = {
     h: "sMAADusAjpKEUapa7bSzeAnEAbEGpH+NKBgGh068Ifw=",
   },
   "Pending devices": {
-    val: "Pending devices",
-    translated: false,
+    val: "Ootel seadmed",
+    translated: true,
     h: "Er8hgX1RiLPLj22DHMixOaj5wHsWbUM6mL2mdSbt+Sc=",
   },
   "Permanently delete account": {
@@ -1422,8 +1422,8 @@ const messages:IMessages = {
     h: "9WrpirmkhUIuWq47S+FrVpJP+prT4uInaMOfMHjxS8c=",
   },
   "Playing": {
-    val: "Playing",
-    translated: false,
+    val: "Esitamisel",
+    translated: true,
     h: "69elN/r6NyshRWtcjLOKso9OmdOJhvg/ix+Xy/fE+Z0=",
   },
   "Port": {
@@ -1510,8 +1510,8 @@ const messages:IMessages = {
     h: "yK0UuSf6pOl+44YBzW+tFNPHt6YYpqe88f+wQCuaHcQ=",
   },
   "Recording": {
-    val: "Recording",
-    translated: false,
+    val: "Salvestamisel",
+    translated: true,
     h: "s1hytW8ZlaU8eRtoTfV+4aCpW5biiyifheE3t0kouUo=",
   },
   "Recurring Expenses": {
@@ -1520,8 +1520,8 @@ const messages:IMessages = {
     h: "yDp5Agru+QzDSy583s3kjOdZbbe6X1WDfMeSNXsYlaY=",
   },
   "Redo": {
-    val: "Redo",
-    translated: false,
+    val: "Korda",
+    translated: true,
     h: "7buMF65dyGtKDY/ZW/Lkn7eUmdudCsdGV3KR2lYLLA0=",
   },
   "Refunds": {
@@ -1617,8 +1617,8 @@ const messages:IMessages = {
     h: "wduD0WXtkIpIb6B4R8AA7ph724u3/Gtv27uaky6rEAU=",
   },
   "Screenshots:": {
-    val: "Screenshots:",
-    translated: false,
+    val: "Ekraanipildid:",
+    translated: true,
     h: "Vl/m/PU/CoPSp/t+drAAfxlQ818VKjlWKN8fsB4/+V4=",
   },
   "Search": {
@@ -1637,8 +1637,8 @@ const messages:IMessages = {
     h: "OHBHBOVnuMjmjWHZURDrna8FWv+geQYMQuobRo4tkq0=",
   },
   "Searching...": {
-    val: "Searching...",
-    translated: false,
+    val: "Otsimine...",
+    translated: true,
     h: "7gAp07Zv3EjrgHoWJ04wEdRefy/aQ0zT8Y2EgQrnbHo=",
   },
   "Select All": {
@@ -1760,8 +1760,8 @@ const messages:IMessages = {
     h: "fu712YZJJBbNWIpP5QaYV+fcz5rcN4DkkaOGdL/X6hk=",
   },
   "Step took too long": {
-    val: "Step took too long",
-    translated: false,
+    val: "Samm kestis liiga kaua",
+    translated: true,
     h: "Py3rsk0guEg0d8Ce9Lbfwzf1zP7E4Z8YPSOu165mOc0=",
   },
   "Stop Speaking": {
@@ -1775,8 +1775,8 @@ const messages:IMessages = {
     h: "j83e9PkiJgq0J5iPOaku/mbjw9H3KtXBaDV4ntsQktk=",
   },
   "Submit": {
-    val: "Submit",
-    translated: false,
+    val: "Saada",
+    translated: true,
     h: "/plzMiu0xhKwtFcT4VqbJMoCd2dB03dB9EJhijEA284=",
   },
   "Success!": {
@@ -1820,8 +1820,8 @@ const messages:IMessages = {
     h: "yyCVeQRle/vbcZ1/QyVYtL+ZmyQ5WanHCYKZpJqFd6o=",
   },
   "Syncing...": {
-    val: "Syncing...",
-    translated: false,
+    val: "Sünkroonimine...",
+    translated: true,
     h: "kuwg7vpvp082IqBtRakekOVu7bqB4PYxhnFVsoBDt/g=",
   },
   "System default": {
@@ -1881,8 +1881,8 @@ const messages:IMessages = {
     h: "IYSSUL9ezB58nRuajYVa+zH4ucrmXQOB92zA7sDlrJc=",
   },
   "Toggle Full Screen": {
-    val: "Toggle Full Screen",
-    translated: false,
+    val: "Täisekraan",
+    translated: true,
     h: "2ZRq+R5E0Cp4QI+y5jCefU1IOiYvNWLrN/iiJq6hGr8=",
   },
   "Tools": {
@@ -1956,18 +1956,18 @@ const messages:IMessages = {
   },
   "Uncleared": {
     /* Label for sum of uncleared transaction amounts */
-    val: "Uncleared",
-    translated: false,
+    val: "Broneeritud",
+    translated: true,
     h: "1GBgqlG+RCS8dFTG2z15jLFFd4PCVVXDefXwBRq0oTs=",
   },
   "Undo": {
-    val: "Undo",
-    translated: false,
+    val: "Võta tagasi",
+    translated: true,
     h: "Z1A2vTdYwfdLsWS25iSchnHOHa1VfbQg7u8MDGHk4yo=",
   },
   "Unexpected sync error": {
-    val: "Unexpected sync error",
-    translated: false,
+    val: "Ootamatu sünkroonimise viga",
+    translated: true,
     h: "78kYsQMTfGS8BNaZVuqYaRojJlTpcmN6CF9PQKKO0ME=",
   },
   "Unique ID": {
@@ -1986,8 +1986,8 @@ const messages:IMessages = {
     h: "BPAjsiEkATiwSf9f6kde3yZwSmmyiPDLiZ7Rr+3Zv/A=",
   },
   "Unregistered Version": {
-    val: "Unregistered Version",
-    translated: false,
+    val: "Registreerimata versioon",
+    translated: true,
     h: "x9ekMClqI57T6jREU5VJurBCzlD+hBNJ8pHNQ0zMB1U=",
   },
   "Update Account Balance": {
@@ -2171,8 +2171,8 @@ const messages:IMessages = {
     h: "dn2W/ktTrcwSzYNSq6IQL7Sl2k8lxZQRsFehzG9Mf7g=",
   },
   "You don't have any recurring expense buckets yet.": {
-    val: "You don't have any recurring expense buckets yet.",
-    translated: false,
+    val: "Sul pole veel korduvate väljaminekute kategooriaid.",
+    translated: true,
     h: "nq2IDCqs8m0MQJ5lO2TU1cnlj9nP1vwIMWMqi0WGOjk=",
   },
   "You have no closed accounts.": {
@@ -2234,8 +2234,8 @@ const messages:IMessages = {
   },
   "account-in": {
     /* Label for amount put into an account */
-    val: "In",
-    translated: false,
+    val: "Sisse",
+    translated: true,
     h: "TcCPpYF7/U7vM5pPmpqvJipZt0WPk3A/vC7Ec8pfDvo=",
   },
   "account-net-amount": {
@@ -2246,8 +2246,8 @@ const messages:IMessages = {
   },
   "account-out": {
     /* Label for amount taken out of an account */
-    val: "Out",
-    translated: false,
+    val: "Välja",
+    translated: true,
     h: "v4Oj0CQx7cmHP4mcJsZX4xMTzMzeFS81XA9gU3qOFKU=",
   },
   "account-type": {
@@ -2461,8 +2461,8 @@ const messages:IMessages = {
     h: "pjcOO9o+UFMLsp6ovyVzksVtCLcFsauwEITWoeq//bg=",
   },
   "in the bank": {
-    val: "in the bank",
-    translated: false,
+    val: "pangas",
+    translated: true,
     h: "7gl7ZdgJ3HfhOcQMiU7hVkFpXIR3KFxXtlMhKyE/Irw=",
   },
   "match-count": {
@@ -2473,8 +2473,8 @@ const messages:IMessages = {
     h: "v7j9K2L04kDpmH02jGxiXPoyxuQwZTCdUx025bb0Yj4=",
   },
   "misc group name": {
-    val: "Misc",
-    translated: false,
+    val: "Muud",
+    translated: true,
     h: "DPoc7CIbzLHJxuar3WnaidO3Ryy1QtYkCswRzVHtVBg=",
   },
   "money-balance-as-of": {
@@ -2492,8 +2492,8 @@ const messages:IMessages = {
     h: "lGcEnJfZJau2h5ohbKNxY1FjL0vJoW3oJOJQwSCt+Kg=",
   },
   "more": {
-    val: "more",
-    translated: false,
+    val: "rohkem",
+    translated: true,
     h: "uiqCMjSdL1TgDZHPNYXLnfN/yZq59+kDR/wKZSAP0hU=",
   },
   "nag-message": {
@@ -2504,8 +2504,8 @@ Kas soovid nüüd litsentsi osta?`,
     h: "cugeP6FVXqdiCtOers5rslG0mDD5t/Rfl1ZWslfhD48=",
   },
   "navigatestep": {
-    val: (url) => `Go to ${url}`,
-    translated: false,
+    val: (url) => `Ava ${url}`,
+    translated: true,
     h: "nI/J4GfYlL6BgRZRSiPFfA5o7ASdx2VVYW6x3vgCuKE=",
   },
   "net-transfers.help": {
@@ -2519,18 +2519,18 @@ Kas soovid nüüd litsentsi osta?`,
     h: "D2fJbta5d1Z5QYuRC5zzkBHsItZOOgY4FKrFJ64BvRs=",
   },
   "notify-downloaded-file": {
-    val: filename => `Downloaded file: ${filename}`,
-    translated: false,
+    val: filename => `Fail allalaaditud: ${filename}`,
+    translated: true,
     h: "HwxJ2TVx57Qef6bXYySekL/eoBzvIEFUqBxQdxgcyCs=",
   },
   "noun.debt": {
-    val: "Debt",
-    translated: false,
+    val: "Võlg",
+    translated: true,
     h: "y9kslXhW17gMMFZ9Dq8g/tabfINzlmzT+39QNbWiWGA=",
   },
   "noun.transfer": {
-    val: "Transfer",
-    translated: false,
+    val: "Ülekanne",
+    translated: true,
     h: "B5GGqjnE8KOjYJjhsFV7zs5TGmGmVPqjihzMVxHJ3sI=",
   },
   "off": {
@@ -2551,25 +2551,25 @@ Kas soovid nüüd litsentsi osta?`,
   "rain.help.neg": {
     val: (abs_amount:JSX.Element) => {
                                       return <span>
-                                      You have put {abs_amount} too much money into buckets.  If all transactions have been categorized this month, remove {abs_amount} from buckets of your choosing.
+                                      Sa oled pannud kategooriatesse {abs_amount} liiga palju. Kui kõik selle kuu tehingud on liigitatud, eemalda oma valikul kategooriatest {abs_amount}.
                                       </span>
                                     },
-    translated: false,
+    translated: true,
     h: "tqXmJxZXqyA0mN/8ugZkpCyspyO7XlPnGlEYGWgQ7jk=",
   },
   "rain.help.pos": {
     val: (abs_amount:JSX.Element) => {
                                       return <span>
-                                      You have {abs_amount} left to put into buckets.
+                                      Sul on {abs_amount} järel kategooriatesse paigutamiseks.
                                       </span>
                                     },
-    translated: false,
+    translated: true,
     h: "boezbSGkVm3dnfFvodJOAeCgAEMIQN9L+8TwEHLpU/o=",
   },
   "shipment-number": {
     /* Noun labeling this shipment number */
-    val: (number:number)=>`Shipment ${number}`,
-    translated: false,
+    val: (number:number)=>`Saadetis ${number}`,
+    translated: true,
     h: "kOj0AkivxHYJj3IKqIFziGCcIwk1yxyUrloX+kGlOd0=",
   },
   "simplefin-connect-intro": {
@@ -2595,8 +2595,8 @@ Kas soovid nüüd litsentsi osta?`,
     h: "8pZrnvzAUQTJhDN/XX31DLvx0wIs1Ww3fV6pktEKEHs=",
   },
   "single-bucket Kicked": {
-    val: "Kicked",
-    translated: false,
+    val: "Arhiveeritud",
+    translated: true,
     h: "cWApfoLlcBvoHizIFtrDQq3uwrZIYMXKO1iLMvv8szI=",
   },
   "some day...": {
