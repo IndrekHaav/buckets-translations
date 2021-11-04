@@ -50,8 +50,8 @@ const messages:IMessages = {
   },
   "About Buckets": {
     /* 'Buckets' refers to the application name */
-    val: "About Buckets",
-    translated: false,
+    val: "Bucketsi info",
+    translated: true,
     h: "9bzPsx+kCkNUeLTSVjaygyWCkm3VCdsFaAFRvdS+xEU=",
   },
   "Access": {
@@ -106,13 +106,13 @@ const messages:IMessages = {
     h: "qm2CvbPMHZpeVCriZp/vJ2kAGatdeyDxfZ8TMaapQvo=",
   },
   "Activity": {
-    val: "Activity",
-    translated: false,
+    val: "Tegevus",
+    translated: true,
     h: "jfKSYDWvDxzcenHtImEM9HokIu7tBJbMki25BNTynTI=",
   },
   "Actual Size": {
-    val: "Actual Size",
-    translated: false,
+    val: "Tegelik suurus",
+    translated: true,
     h: "k1ZfUj7bmT4XwiALRlZo7ztl2d+e7JcLt3WCnvjpBYg=",
   },
   "Add": {
@@ -126,6 +126,8 @@ const messages:IMessages = {
     h: "VdeXP2eoJR+Sf3pph0sG+PV5E5Jq/mFGXEOAve8aad4=",
   },
   "All Files": {
+    /* Label for letting users select any file for import regardless of extension */
+    /* Label for letting users select any file for import regardless of extension */
     /* Label for letting users select any file for import regardless of extension */
     val: "Kõik failid",
     translated: true,
@@ -142,8 +144,8 @@ const messages:IMessages = {
     h: "DHNNaJF4hWTWIFdaMdMhUT4aSdti7ZfaNexABzxWWzc=",
   },
   "Amount of money over-allocated in buckets.": {
-    val: "Amount of money over-allocated in buckets.",
-    translated: false,
+    val: "Kategooriatesse jagatud üleliigne summa.",
+    translated: true,
     h: "kFucvPefN9Kae7dArnle8i0rTZZq1U+3d8w81lDNVKw=",
   },
   "Analysis": {
@@ -213,8 +215,8 @@ const messages:IMessages = {
     h: "XQYKw3qJ7xKoR/DX6K6NdZxbJLHVJhxy9mFVV8r1ZU4=",
   },
   "Bring All to Front": {
-    val: "Bring All to Front",
-    translated: false,
+    val: "Too kõik esiplaanile",
+    translated: true,
     h: "vXNLSncC5dTsDdfhZY5dhbev+Y3PpqQEy1fwxTkGWU0=",
   },
   "Bucket": {
@@ -276,8 +278,8 @@ const messages:IMessages = {
   },
   "Budget password:": {
     /* Label for bank macro password prompt */
-    val: "Budget password:",
-    translated: false,
+    val: "Eelarve salasõna:",
+    translated: true,
     h: "yB5u4awiXu76+/Pw81ZYhBtgYQktcAVe6KU4WreiReU=",
   },
   "Budgeted": {
@@ -382,6 +384,11 @@ const messages:IMessages = {
     translated: true,
     h: "wjjhyYhYEFdJWUmwdJIEdxm0iAq2bwrWU79ANObzzZY=",
   },
+  "Choose a file ending in either .ynab4 or .ymeta": {
+    val: "Vali fail laiendiga .ynab4 või .ymeta",
+    translated: true,
+    h: "Tym1GWz52+2AgA4qwsbqknBtvR9QYYGN2y5oYYQ7yZQ=",
+  },
   "Cleared": {
     /* Tooltip text indicating that a transaction has cleared. */
     val: "Arveldatud",
@@ -431,8 +438,8 @@ const messages:IMessages = {
     h: "Px/rLFgkE/Sv1Z+Xm0frULVV3lxvrEc7ABJaDzmv670=",
   },
   "Connect": {
-    val: "Connect",
-    translated: false,
+    val: "Ühendu",
+    translated: true,
     h: "pCLQy6ZAsZnJ3ff5r+iD+O2vHQhIJEEUHUhiY1NrMP0=",
   },
   "Connect to bank": {
@@ -441,13 +448,13 @@ const messages:IMessages = {
     h: "0T7eA3oFvMxyPIOAkMZ2rDpJxQVORgxrLqrDx87L1ZY=",
   },
   "Connected": {
-    val: "Connected",
-    translated: false,
+    val: "Ühendatud",
+    translated: true,
     h: "fV/VOfsqBR+vyqF2tRjG6qsC8ufS/QDaTRaUee+UEMA=",
   },
   "Connecting...": {
-    val: "Connecting...",
-    translated: false,
+    val: "Ühendumine...",
+    translated: true,
     h: "fYdj0RfOQMPN3n28gswFnK4aOvozPH0hqm9oqd+NcWI=",
   },
   "Connection corrupted. Please delete and re-create.": {
@@ -457,8 +464,8 @@ const messages:IMessages = {
     h: "YjH9IxACkJ2e9cq+MYI3I6l3RmOWZPEBAwzjq3W7x0s=",
   },
   "Connection saved!": {
-    val: "Connection saved!",
-    translated: false,
+    val: "Ühendus salvestatud!",
+    translated: true,
     h: "wAgyeIQsbaI/kFPgBf8sWlKK1mf/VcP7BjHpC9TNYuc=",
   },
   "Copy": {
@@ -487,8 +494,8 @@ const messages:IMessages = {
     h: "F6PDykaoACWoqQ+oKUyJyhERAe1FjT6A3OkxL+S5l8k=",
   },
   "Create Template": {
-    val: "Create Template",
-    translated: false,
+    val: "Lisa mall",
+    translated: true,
     h: "gAbtUL3vhxk+yCSp7fzAF4Z9tV0I4x7Uq5xDJ4nm2Uk=",
   },
   "Create Transaction": {
@@ -497,8 +504,8 @@ const messages:IMessages = {
     h: "G5NDAP857MBDE66GWUREcFAJc2pCogndYa6y+m6PRfE=",
   },
   "Create budget password:": {
-    val: "Create budget password:",
-    translated: false,
+    val: "Lisa eelarve salasõna:",
+    translated: true,
     h: "Bf9XVrpN9UpVSKpZNRpBUw/IaFjMkNCmH4gpAfhYFkY=",
   },
   "Create macro": {
@@ -518,14 +525,19 @@ const messages:IMessages = {
     h: "/zaBMXJh747DLHbqocisO7iV5wDJpVTSCx8RhH7Ye0E=",
   },
   "Cut": {
-    val: "Cut",
-    translated: false,
+    val: "Lõika",
+    translated: true,
     h: "+kuX06pgC809fwr+5h9VbC8sVgVWo6EXgg6bzfXXtJs=",
   },
   "Date Posted": {
     val: "Kuupäev",
     translated: true,
     h: "3A+vhaBB21UASdnwmNYVGMV9qH/U43D3DCsVSXlWasY=",
+  },
+  "Date format": {
+    val: "Kuupäeva formaat",
+    translated: true,
+    h: "fY1FnR2YTcyORx9p/4BdLTjtjH1FNW35jtGy64ltO4E=",
   },
   "Debt": {
     /* Label for a total debt amount */
@@ -538,6 +550,11 @@ const messages:IMessages = {
     val: "Debugger",
     translated: false,
     h: "4ScsdyOtUZsKH/cENJNnmyZFMuIjtHzPrPhrpnc+kOk=",
+  },
+  "Decimal delimiter": {
+    val: "Kümnendkohtade eraldaja",
+    translated: true,
+    h: "Qjuny9lynn/v2WJwTnYLdXQb/ne+0Q2TBiSM+KFIrIU=",
   },
   "Delete": {
     val: "Kustuta",
@@ -585,13 +602,13 @@ const messages:IMessages = {
     h: "Vr53xwIeHjIIuMymcxrQ3l1RsDE6ra+ZTFT4dbR/rlI=",
   },
   "Disable Macro": {
-    val: "Disable Macro",
-    translated: false,
+    val: "Keela makro",
+    translated: true,
     h: "k0HEkS8+oirJJHylM2fcT1D1/IqnGFVX3cGlU3d3G50=",
   },
   "Do both devices display the same image and code?": {
-    val: "Do both devices display the same image and code?",
-    translated: false,
+    val: "Kas mõlemas seadmes on kuvatud sama pilt ja kood?",
+    translated: true,
     h: "b4hrUuVyQY42ZQnEyYvmBHmzVT6WcHo30VshIQAx3zQ=",
   },
   "Done": {
@@ -621,8 +638,8 @@ const messages:IMessages = {
   },
   "EXPERIMENTAL Buckets Macro Maker": {
     /* 'Buckets' refers to the application name */
-    val: "EXPERIMENTAL Buckets Macro Maker",
-    translated: false,
+    val: "EKSPERIMENTAALNE Buckets Macro Maker",
+    translated: true,
     h: "NZPVXQ+Dw1vv0fLXY+Z4R1KiEkXjDZtSmY3tVz5L1VI=",
   },
   "Eating out": {
@@ -641,8 +658,8 @@ const messages:IMessages = {
     h: "D85G++Fy1hUUGZfHiKAUcNRlXmLcdkKK7RtxnwJ110U=",
   },
   "Enable Macro": {
-    val: "Enable Macro",
-    translated: false,
+    val: "Luba makro",
+    translated: true,
     h: "9SWFr96CNVD21JQ30lw4cj1JCAZ44RNlKkDzQJ/RyuE=",
   },
   "Ending Balance": {
@@ -651,13 +668,13 @@ const messages:IMessages = {
     h: "bwan2qqqdDloluCkgp+UPYWSAeOQk9zkaNwb2p0kUDk=",
   },
   "Ending amount:": {
-    val: "Ending amount:",
-    translated: false,
+    val: "Lõppsumma:",
+    translated: true,
     h: "0IUvXk9nogxjdL1n0VZPrxcMOUZODNXMlGrlpyXq8bI=",
   },
   "Enter Buckets License": {
-    val: "Enter Buckets License",
-    translated: false,
+    val: "Sisesta Buckets litsentsikood",
+    translated: true,
     h: "QPy/bCk+yTP2DzZAmXWbRYj2KC5QbrLq/XeXrysIX6Q=",
   },
   "Enter License...": {
@@ -710,6 +727,12 @@ const messages:IMessages = {
     translated: true,
     h: "mZJs0iE089tMZ5BWqTUBp+2aJ90wKL4act4hUPt7zkA=",
   },
+  "Faint cents": {
+    /* Label for application preference enabling/disabling faint cents */
+    val: "Faint cents",
+    translated: false,
+    h: "gL5W+6nmqNfRsbiNIBEyHIX0LvI1xCYl+kDyuUwFsGI=",
+  },
   "File": {
     val: "Fail",
     translated: true,
@@ -743,13 +766,13 @@ const messages:IMessages = {
     h: "0n6Dq5KDTxxsTAKrJE+RDdgi9ln6FyfUEPNBJ6ejZ5o=",
   },
   "Find...": {
-    val: "Find...",
-    translated: false,
+    val: "Otsi...",
+    translated: true,
     h: "aUU1pzvlZzKNgYZP2ZpPtQMImBOStbFnK33P3YwXTNs=",
   },
   "Finish import": {
-    val: "Finish import",
-    translated: false,
+    val: "Lõpeta import",
+    translated: true,
     h: "4xsUuxEj2AOOfV6aSUBcosl89BFoAZ+srMPIeWzIjUI=",
   },
   "For Date Posted, you must also choose the date format.": {
@@ -778,8 +801,8 @@ const messages:IMessages = {
     h: "Kop7hNPijjGN5jXxpDmcP32CJy22tzVz1qXWTjNxVg0=",
   },
   "Getting Started...": {
-    val: "Getting Started...",
-    translated: false,
+    val: "Alustamine...",
+    translated: true,
     h: "XD8GQYEIDrNjTMPX4TjGeAbbCIEBcAONlYPd/D8Hz84=",
   },
   "Go To...": {
@@ -789,8 +812,8 @@ const messages:IMessages = {
     h: "AsKW6buNlZ7YlWHN1pVgNlCAzqiFIsJGL1cg8CkVGkg=",
   },
   "Goal completion:": {
-    val: "Goal completion:",
-    translated: false,
+    val: "Eesmärk täidetud:",
+    translated: true,
     h: "v+G5gj6B+MtHwQovNmj/BWbpnQncARZGo+swhE1fbtg=",
   },
   "Goal:": {
@@ -842,8 +865,8 @@ const messages:IMessages = {
     h: "38YdGXFjndmgDFgXTpfUZ0F+W/D9e267YaAvzYZm4O8=",
   },
   "Hide Others": {
-    val: "Hide Others",
-    translated: false,
+    val: "Peida muud",
+    translated: true,
     h: "RpKz0G7Y8OE5oyGm0/zRffPdr7RQkneZCYrikLHIZ+U=",
   },
   "Holidays": {
@@ -867,8 +890,8 @@ const messages:IMessages = {
     h: "59JoGSJaPOdtgmCL+QLp8U/e6y+OGGM8fdEX4sClrpk=",
   },
   "If Net is 0, the bucket transactions will be marked as transfers rather than as income or expenses.": {
-    val: "If Net is 0, the bucket transactions will be marked as transfers rather than as income or expenses.",
-    translated: false,
+    val: "Kui netosumma on 0, märgitakse eelarve kanded ülekannete, mitte sissetulekute või väljaminekutena.",
+    translated: true,
     h: "/btREV6/jPJtrc1ERDwLUyJAowC8+v6gUB7bmJJYzT4=",
   },
   "If multiple columns are selected for Amount, the first non-zero value will be used.  This is helpful if the CSV contains separate Credit and Debit columns.": {
@@ -878,8 +901,18 @@ const messages:IMessages = {
   },
   "Import": {
     val: "Import",
-    translated: false,
+    translated: true,
     h: "F3sijvfYz3oB4iz2rVHjUvNDLQs43MbXDVIr5VFA2/c=",
+  },
+  "Import .zip file": {
+    val: "Impordi .zip fail",
+    translated: true,
+    h: "EmJa8O6YE7jrgmaqDUM5pIdurIYHfx1RIvVLHmqhRws=",
+  },
+  "Import From Web YNAB...": {
+    val: "Impordi YNAB veebiversioonist...",
+    translated: true,
+    h: "7Yteq/akhgWWCBUeqgBRz4wP6bKcirfp74uLeTQop3Q=",
   },
   "Import From YNAB4...": {
     val: "Impordi YNAB4-st...",
@@ -902,6 +935,11 @@ const messages:IMessages = {
     val: "Impordi fail",
     translated: true,
     h: "iaQvPnsbTKu/ItmjoC8ctwpVbyumVe15GLL8nCbe25Q=",
+  },
+  "Import from Web YNAB": {
+    val: "Impordi YNAB veebiversioonist",
+    translated: true,
+    h: "NyXkbdCVf1mZfbmhjqJx4M10Vz/UfGdvSHdz+G6CGKc=",
   },
   "Import from YNAB4": {
     val: "Impordi YNAB4-st",
@@ -1065,14 +1103,14 @@ const messages:IMessages = {
     h: "Rmor5ffKqQTdDQSwA2x/hHhrr0zL7MceXGsR1vHe6b4=",
   },
   "Make it rain!": {
-    val: "Make it rain!",
-    translated: false,
+    val: "Jaota raha",
+    translated: true,
     h: "GCU3Hru9VCit7F+BYEMKmg5U8gsc1/UZ+o5wsbMAkeY=",
   },
   "Make it so": {
     /* Button label for causing the set of pending deposits/withdrawls to happen.  Synonyms could be: "Do it" or "Run" or "Go" */
-    val: "Make it so",
-    translated: false,
+    val: "Jaota",
+    translated: true,
     h: "XRTIWjylWKAy5BW8/0C0rOSW5S1QC+CxmgmFfhi81pk=",
   },
   "Mark Cleared": {
@@ -1103,18 +1141,18 @@ const messages:IMessages = {
     h: "ELhkWGGY5oNKpfCzoXXW6TgkfS1nI0ZuJbWyYLmT+ro=",
   },
   "Month to Month": {
-    val: "Month to Month",
-    translated: false,
+    val: "Kuust kuusse",
+    translated: true,
     h: "VYq/DQYARQsjblXvXMijYnVbyFbLkqoRYmQ8IHhTbDQ=",
   },
   "Monthly": {
-    val: "Monthly",
-    translated: false,
+    val: "Igakuine",
+    translated: true,
     h: "r+AvQ06eYho/PFxjGz8FzHFmEfN+fjBpG0Yzic6/UgU=",
   },
   "Monthly deposit:": {
-    val: "Monthly deposit:",
-    translated: false,
+    val: "Igakuine sissemakse:",
+    translated: true,
     h: "GKlnbgfjEkmlOI0TT0pyfI30T1/0jrXjT01JZrBTpP0=",
   },
   "Months": {
@@ -1149,8 +1187,8 @@ const messages:IMessages = {
     h: "JLW3ar4riykgYXyTGeMCNqL+wes0evHH6RERa+qXPaw=",
   },
   "Needs": {
-    val: "Needs",
-    translated: false,
+    val: "Vajadused",
+    translated: true,
     h: "RbGrwaVYaT8OdEbNo5YBRWxoGZNYzZKjiDz7JrZVuuc=",
   },
   "Negate": {
@@ -1166,8 +1204,8 @@ const messages:IMessages = {
     h: "uu+tZJYytTWkRjWGnhq7P28TYmWJ58RmQcbAv4QEakg=",
   },
   "Net": {
-    val: "Net",
-    translated: false,
+    val: "Neto",
+    translated: true,
     h: "QITdwYnhK1fVfALCDc6jQhY2jLIUBpPp0/bSHOX6p9M=",
   },
   "Net Transfers": {
@@ -1338,6 +1376,11 @@ const messages:IMessages = {
     translated: true,
     h: "8teUT2P/KToCDoMTqS88JNVtG9PTE/5PojtS1SGmokw=",
   },
+  "Open Web YNAB Zip File": {
+    val: "Ava YNAB veebiversiooni ZIP fail",
+    translated: true,
+    h: "etHUkWVrpkdYsNeOHkK2wLKMkL4YYkEjNO4WwPdIPMY=",
+  },
   "Open YNAB4 File": {
     val: "Ava YNAB4 fail",
     translated: true,
@@ -1484,18 +1527,18 @@ const messages:IMessages = {
     h: "QILEHXgAk6vuNPV3rqkbn2QRZ8WKrPnAZnscp7n8WaM=",
   },
   "Rain": {
-    val: "Rain",
-    translated: false,
+    val: "Vaba raha",
+    translated: true,
     h: "fqeHyOaOYnCtGAcJlJbhAR37DG6YMrsasUNtiL6z8hc=",
   },
   "Rain left": {
-    val: "Rain left",
-    translated: false,
+    val: "Vaba raha järel",
+    translated: true,
     h: "+xrBpD9ex3fqQgh+YuNxsFxWyrbE8G1236f81k2whuY=",
   },
   "Rainfall this month:": {
-    val: "Rainfall this month:",
-    translated: false,
+    val: "Sel kuul eraldatud:",
+    translated: true,
     h: "S6dFwRYAFyRMUh4i6My2aNacGwMh8taa7neVTx9aiAM=",
   },
   "Recently used": {
@@ -1587,8 +1630,8 @@ const messages:IMessages = {
     h: "c+Qi3RJelGSlC9MybLul6oqMPosN10WOFW6k+roCtxk=",
   },
   "Required deposit:": {
-    val: "Required deposit:",
-    translated: false,
+    val: "Vajalik sissemakse:",
+    translated: true,
     h: "Q34JZduUI2Lx8xxjkeH/Md92nqWgEcbPFZjgf5m7tXA=",
   },
   "Restart Buckets": {
@@ -1652,8 +1695,8 @@ const messages:IMessages = {
     h: "qkaCMMw9CYakrPrLxgfkBp3KsfadBdGLYgZB8urPaC4=",
   },
   "Self debt": {
-    val: "Self debt",
-    translated: false,
+    val: "Puudujääk",
+    translated: true,
     h: "zRWPLHqBTGcGqHHBHWdXpN2eOUUhRhvCyeAccFlR9Z4=",
   },
   "Send Report": {
@@ -1706,6 +1749,11 @@ const messages:IMessages = {
     val: "Märk",
     translated: true,
     h: "uw6BT7o9vlsgV2TpwBFx/MfF1npvA+6ru4lXXcSzoCM=",
+  },
+  "Sign in to the YNAB website, click My Budget then Export Budget.": {
+    val: "Logi YNAB veebilehel sisse, klõpsa My Budget ja seejärel Export Budget.",
+    translated: true,
+    h: "etFjjZd2+flhi9J3CbiPL8eb4Gc3jHFAKkMPuQZmxlA=",
   },
   "SimpleFIN Connections": {
     val: "SimpleFIN ühendused",
@@ -1831,8 +1879,8 @@ const messages:IMessages = {
     h: "A9haWZjRR5Su694Q278jjqi/xmRweA6I6et1Q9L3ahI=",
   },
   "Target date:": {
-    val: "Target date:",
-    translated: false,
+    val: "Lõppkuupäev:",
+    translated: true,
     h: "InmNQoNHlJkDpjvEB+J1XPqDWRqnfNIUwTQ86iNiOGc=",
   },
   "Test Toast": {
@@ -1851,8 +1899,8 @@ const messages:IMessages = {
     h: "l+W2GSV3tl8Gx19ZW+wOCziBj5/UeMCVO8tvh4P7LEo=",
   },
   "This budget was upgraded for a newer version of Buckets.  Using it with this older version may not work.": {
-    val: "This budget was upgraded for a newer version of Buckets.  Using it with this older version may not work.",
-    translated: false,
+    val: "See eelarve on salvestatud uuema Bucketsi versiooniga ning praeguse vanema versiooniga ei pruugi töötada.",
+    translated: true,
     h: "SJjFg0juSV/ZrJcAQJDMXveLnxwSQT4nfJiyMQFkbMw=",
   },
   "This device's name": {
@@ -1869,6 +1917,11 @@ const messages:IMessages = {
     val: "See tööriist kustutab andmed, et saaksid oma eelarvega uuesti alustada.",
     translated: true,
     h: "+40oxGj2jDLNe4ggunYHsgL/9aQz0pw5IeRM5VlYIIU=",
+  },
+  "Thousands separator": {
+    val: "Tuhandeliste eraldaja",
+    translated: true,
+    h: "lYK3D4dxDxbFalJtMHHtc/++mciDmIUg9A3tgDiUkzs=",
   },
   "To": {
     val: "Kuni",
@@ -1891,8 +1944,8 @@ const messages:IMessages = {
     h: "mPsch0seV0ZNaU+41My/wS+DkAGfYqzWpPlJpfT1sBs=",
   },
   "Total amount your buckets expect each month.": {
-    val: "Total amount your buckets expect each month.",
-    translated: false,
+    val: "Kogusumma, mida su eelarved iga kuu vajavad.",
+    translated: true,
     h: "UtK2gxh+N9D/p1G6dLyhcKMP5Df5XCyEp0jM0c+qoUw=",
   },
   "Transaction": {
@@ -1991,13 +2044,13 @@ const messages:IMessages = {
     h: "x9ekMClqI57T6jREU5VJurBCzlD+hBNJ8pHNQ0zMB1U=",
   },
   "Update Account Balance": {
-    val: "Update Account Balance",
-    translated: false,
+    val: "Uuenda konto saldo",
+    translated: true,
     h: "iwKjdHzqHPwoupXiUwrVL1tX4QfO//taXOPXFVtWRVE=",
   },
   "Update Account Name": {
-    val: "Update Account Name",
-    translated: false,
+    val: "Uuenda konto nimi",
+    translated: true,
     h: "xcyLhnHNOTDgJsYGhaelbAmXYam4HWMfD5mQiTiZJ50=",
   },
   "Update Available": {
@@ -2006,68 +2059,68 @@ const messages:IMessages = {
     h: "FKOD6i3t69T8rvTwVJ5VSnLfkQPBcceuuk2X4ZsNKMY=",
   },
   "Update Bucket Name": {
-    val: "Update Bucket Name",
-    translated: false,
+    val: "Uuenda kategooria nimi",
+    translated: true,
     h: "Oa+1EZtc4RTtPYyk5LflMMlQq/esZ3qvTgbSLiKIl4E=",
   },
   "Update Bucket Type": {
-    val: "Update Bucket Type",
-    translated: false,
+    val: "Uuenda kategooria tüüp",
+    translated: true,
     h: "wt5F9WSIpGlUsGaPnhSJlLYk0qraymNHDw0bYzbHlIE=",
   },
   "Update Color": {
-    val: "Update Color",
-    translated: false,
+    val: "Uuenda värv",
+    translated: true,
     h: "6QBa9YrDFsWCiiS/PMj7r+cTmIgMmmqjTnv9x4l90ic=",
   },
   "Update Currency Symbol": {
-    val: "Update Currency Symbol",
-    translated: false,
+    val: "Uuenda valuuta sümbol",
+    translated: true,
     h: "5ni7IpG/zzlc/uAhhkduQ99K/5B9ui5INpaxZw7QTrs=",
   },
   "Update Goal": {
-    val: "Update Goal",
-    translated: false,
+    val: "Uuenda eesmärk",
+    translated: true,
     h: "S3dt9ahT1yTXTCP2uHqiTMkyPUmAvAHvsCeGNa+NL1E=",
   },
   "Update Group Name": {
-    val: "Update Group Name",
-    translated: false,
+    val: "Uuenda grupi nimi",
+    translated: true,
     h: "/pmHZLX1mkRHtus8eVyojidhAUe6BocaSkf5dGoIrSM=",
   },
   "Update Macro Name": {
-    val: "Update Macro Name",
-    translated: false,
+    val: "Uuenda makro nimi",
+    translated: true,
     h: "61srDLhVLo6bOo+SbnJ0rMbhNhXXRxEjgP3/nFafMKI=",
   },
   "Update Monthly Deposit": {
-    val: "Update Monthly Deposit",
-    translated: false,
+    val: "Uuenda igakuine sissemakse",
+    translated: true,
     h: "rFQ5lKjSNpQyyptg2Y+a4LQ6jwa1xWjKarMapXiD1/8=",
   },
   "Update Name": {
-    val: "Update Name",
-    translated: false,
+    val: "Uuenda nimi",
+    translated: true,
     h: "fTqm8NUcvzaYHnGFDmVhLePEd/TFNPhUDzSYIIerjNc=",
   },
   "Update Note": {
-    val: "Update Note",
-    translated: false,
+    val: "Uuenda märkus",
+    translated: true,
     h: "h4A+jnQW9OrS0wVVoQ9OEJ5I6/h4p7IWrKvN+uSXe4I=",
   },
   "Update Target Date": {
-    val: "Update Target Date",
-    translated: false,
+    val: "Uuenda lõppkuupäev",
+    translated: true,
     h: "SEac1rQopyHALPSWU85qYV3GE0x9i2OGDB+JYnVID8A=",
   },
   "Update Transaction": {
-    val: "Update Transaction",
-    translated: false,
+    val: "Uuenda kanne",
+    translated: true,
     h: "aMF18BJOMjuVOInpbGKf/3jyTE1qYzq4oHzb3sBVcWw=",
   },
   "Update account balance": {
-    val: "Update account balance",
-    translated: false,
+    val: "Uuenda konto saldo",
+    translated: true,
     h: "GQWvUamqQOyoaXm16AiGtHme6kW171erNK5pa4vgDIE=",
   },
   "Update balance": {
@@ -2101,29 +2154,35 @@ const messages:IMessages = {
     h: "Buf8KjuQKnfaA4c2qPDVm8FQgYWJUfiCYYkPAnsIIBw=",
   },
   "View": {
-    val: "View",
-    translated: false,
+    val: "Vaade",
+    translated: true,
     h: "paIseOhKCT2+NaUBPKk98vQB/lphf7jIGeERV77doDg=",
   },
   "Want": {
-    val: "Want",
-    translated: false,
+    val: "Vajadus",
+    translated: true,
     h: "lV/eDqkplJ/XKjHyCSE47yOWOl3t3Igj9S559wDKMZI=",
   },
   "Wants": {
-    val: "Wants",
-    translated: false,
+    val: "Vajadused",
+    translated: true,
     h: "AOckwUko9CT2K8gxtu/GHFhjivPPgTDgQSjCNSujUV4=",
   },
   "Warning: Doing this will use rain you don't have and could steal rain from future months (if available).": {
-    val: "Warning: Doing this will use rain you don't have and could steal rain from future months (if available).",
-    translated: false,
+    val: "Hoiatus: Selle tegemine kasutab raha, mida sul veel ei ole, ja võib võtta raha järgmistest kuudest.",
+    translated: true,
     h: "YR+S0SMnFz4+K5vpXrMzMfSaBE5mHBrhQTalzgI0/7U=",
   },
   "Water": {
     val: "Vesi",
     translated: true,
     h: "BOL+IhrDsm6ooEqGpFPieQoyXrWpV6LvKh0DvkAJ2bw=",
+  },
+  "Web YNAB Export": {
+    /* Label for YNAB export file type */
+    val: "YNAB veebiversiooni eksport",
+    translated: true,
+    h: "tW4h/MIfunRbmUN+oxQ8Sa2pKJQgML5XIcQkPzclpEM=",
   },
   "When \"On\" this macro will be run during a normal sync.": {
     val: "When \"On\" this macro will be run during a normal sync.",
@@ -2136,8 +2195,8 @@ const messages:IMessages = {
     h: "qjw17TPhgeX5msjicdTljyCEeBLFbQvz/oyOunMLJnQ=",
   },
   "Year to Year": {
-    val: "Year to Year",
-    translated: false,
+    val: "Aastast aastasse",
+    translated: true,
     h: "YBGCdB/QACmMM/QS2qMrGlC8qtfWz9bhue7sgDaIRHg=",
   },
   "Year's Supply": {
@@ -2146,8 +2205,8 @@ const messages:IMessages = {
     h: "E5VfnhjiYed/e2Ezg+RdChSIz6cjwl9oyRzpO1rjl0I=",
   },
   "Yearly": {
-    val: "Yearly",
-    translated: false,
+    val: "Iga-aastane",
+    translated: true,
     h: "LjMZRIZX3jdNUpbBBgqpPR9Az6c4sBWYUwd2WDVb9Rw=",
   },
   "Years": {
@@ -2186,8 +2245,8 @@ const messages:IMessages = {
     h: "mtaAsLJ7BgWZcbIkRmZ4ZPSSRGXj6vJ2H8+diLhIba4=",
   },
   "You must backup to a different file.": {
-    val: "You must backup to a different file.",
-    translated: false,
+    val: "Varukoopia peab salvestama teise faili.",
+    translated: true,
     h: "LAt5pxdaPsRHDU6bS2Cu1aEDIQ2oZAMw46Pa7H6pc5o=",
   },
   "You must have at least one column each set to Amount, Memo and Date Posted.": {
@@ -2201,18 +2260,18 @@ const messages:IMessages = {
     h: "/ip+dZCEKXdLQFW5CAt/fB8OBf/rD+67pz8etOXlJXc=",
   },
   "Zoom": {
-    val: "Zoom",
-    translated: false,
+    val: "Suum",
+    translated: true,
     h: "Zjzswxbrkbj1TLPOYCtimoyh/aJlkF/mxeghbzdheSs=",
   },
   "Zoom In": {
-    val: "Zoom In",
-    translated: false,
+    val: "Suumi sisse",
+    translated: true,
     h: "p3yHl1qkGVfRDPsLKitBuZhRJIDaTy3fV/vbWqOzo24=",
   },
   "Zoom Out": {
-    val: "Zoom Out",
-    translated: false,
+    val: "Suumi välja",
+    translated: true,
     h: "hRo1uzcSNStVll7ef2xHOB6PqFh+q7Sg/VHiGcK4M8M=",
   },
   "account-bal-diff-1": {
@@ -2240,8 +2299,8 @@ const messages:IMessages = {
   },
   "account-net-amount": {
     /* Label for net value of amount in - amount out for an account */
-    val: "Net",
-    translated: false,
+    val: "Neto",
+    translated: true,
     h: "QITdwYnhK1fVfALCDc6jQhY2jLIUBpPp0/bSHOX6p9M=",
   },
   "account-out": {
@@ -2301,23 +2360,23 @@ const messages:IMessages = {
     h: "dh5nslkaB1wNR4tJ5zAn6Hms+9oJqBDmAIR5k6WE6iY=",
   },
   "bucketactivity.help": {
-    val: "This is the sum of money taken out of this bucket and transfers in from other buckets this month.",
-    translated: false,
+    val: "See on sellel kuul kategooriast väljavõetud raha ja teistest kategooriatest tõstetud raha summa.",
+    translated: true,
     h: "//A1247jGgumC/yiUDcTLEsXMcwseMWOiaZOpsiMCu0=",
   },
   "buckethead.in": {
-    val: "Amount of money put in this month.",
-    translated: false,
+    val: "Sellel kuul sissepandud raha summa.",
+    translated: true,
     h: "VaDlj3R8L2TD4QFh1rotfK5RjV7WF91mP3iqVAvdppc=",
   },
   "bucketinout.help": {
-    val: "Use this to put money in and take money out of each bucket.",
-    translated: false,
+    val: "Kasuta seda kategooriatesse raha sissepanemiseks ja väljavõtmiseks.",
+    translated: true,
     h: "FVxtuv3HRHdU7Snx+P3YYxcSngOkrcKyS5mng6AB8gE=",
   },
   "bucketrain.help": {
-    val: "This is how much money these buckets want each month.  The little box indicates how much they have received.",
-    translated: false,
+    val: "See on summa, mida need kategooriad iga kuu vajavad. Väike kast kõrval näitab, kui palju nad on saanud.",
+    translated: true,
     h: "3dbOFkUiGaEoD01CP7kIWDQHgUbULWexjdEKdEAF3sA=",
   },
   "buckettype.deposit": {
@@ -2356,18 +2415,18 @@ const messages:IMessages = {
     h: "kwKSKlSPTFMLAO7bG4077aAVl7XZft2SrNJMOfe5ILQ=",
   },
   "daterange.all": {
-    val: "All time",
-    translated: false,
+    val: "Aegade algusest",
+    translated: true,
     h: "Fz1lBhxlewLJ5bSKTiIzzaW3CAtAPxkUWWKU0BVqgAA=",
   },
   "daterange.from2monthsago": {
-    val: "From 2 months ago",
-    translated: false,
+    val: "Eelmise 2 kuu algusest",
+    translated: true,
     h: "zb4vtJXSL+UcXZTjSbkQueS8khVvJO2MDoFKKPuuDPM=",
   },
   "daterange.from3monthsago": {
-    val: "From 3 months ago",
-    translated: false,
+    val: "Eelmise 3 kuu algusest",
+    translated: true,
     h: "4957XI6fjMtXcCqj3IRSUSQzX4ZlEucDTuwgu2krTLw=",
   },
   "daterange.fromlastmonth": {
@@ -2486,9 +2545,9 @@ const messages:IMessages = {
   },
   "months gain/loss label": {
     val: (gain) => {
-                        return gain >= 0 ? "Month's gain" : "Month's loss";
+                        return "Kuu käive";
                       },
-    translated: false,
+    translated: true,
     h: "lGcEnJfZJau2h5ohbKNxY1FjL0vJoW3oJOJQwSCt+Kg=",
   },
   "more": {
