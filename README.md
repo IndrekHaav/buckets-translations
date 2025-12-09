@@ -13,7 +13,7 @@ This is the repository of translations for the [Buckets budgeting app](https://w
 |           98% |              84% | Deutsch | de |
 |          100% |             100% | English | en |
 |           98% |              74% | Español | es |
-|           98% |              96% | Eesti | et |
+|           98% |             100% | Eesti | et |
 |           98% |              63% | Français | fr |
 |           98% |               0% | עִברִית | he |
 |           98% |              37% | Magyar | hu |

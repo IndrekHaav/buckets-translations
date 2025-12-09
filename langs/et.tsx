@@ -399,8 +399,8 @@ const messages:IMessages = {
     h: "jPwdFrODeZ3bxIdD+YJ9CFGjCQTqdwQNr9CdB4QTI6U=",
   },
   "Buckets supports these methods for getting transaction data from your bank:": {
-    val: "Buckets supports these methods for getting transaction data from your bank:",
-    translated: false,
+    val: "Buckets toetab tehingute pangast pärimiseks järgmiseid meetodeid:",
+    translated: true,
     h: "FZTmMzn8nueq7ZFrrj79vDt/YeA8nG6ObK8YvAIqM4U=",
   },
   "Budget": {
@@ -441,8 +441,8 @@ const messages:IMessages = {
     h: "aP72arzLN/j79zGtL8DWE7wcBGciRcWqMOR1aTHJmNo=",
   },
   "CSV (comma separated value)": {
-    val: "CSV (comma separated value)",
-    translated: false,
+    val: "CSV",
+    translated: true,
     h: "5Z0E+DB+F+KY2h8NuibNi+87sT6vopRsErOJ8d0yslI=",
   },
   "Cable TV": {
@@ -674,7 +674,7 @@ const messages:IMessages = {
   },
   "Connection deleted": {
     val: "Ühendus kustutatud",
-    translated: "auto",
+    translated: true,
     h: "QbB3NfDIpEmXgwY+hq95+aQCRlMErfUvqa+o3tPY93A=",
   },
   "Connection saved!": {
@@ -725,8 +725,8 @@ const messages:IMessages = {
     h: "G5NDAP857MBDE66GWUREcFAJc2pCogndYa6y+m6PRfE=",
   },
   "Create a local macro to download transaction data directly from your bank.": {
-    val: "Create a local macro to download transaction data directly from your bank.",
-    translated: false,
+    val: "Lisa lokaalne makro tehingute otse pangast allalaadimiseks.",
+    translated: true,
     h: "Vh8nBn0cavaQNu36hUUud2ryLiVOAMsRbT5ChS7S4II=",
   },
   "Create budget password:": {
@@ -936,8 +936,8 @@ const messages:IMessages = {
     h: "OvekDBh71chOkbTXqPs/V/x0lNbpc668s4hyXRF5G+I=",
   },
   "Download files from your bank and import them into Buckets by hand. Use one of these supported formats:": {
-    val: "Download files from your bank and import them into Buckets by hand. Use one of these supported formats:",
-    translated: false,
+    val: "Laadi failid oma pangast alla ja impordi need käsitsi Bucketsisse. Kasuta üht järgnevatest toetatud formaatidest:",
+    translated: true,
     h: "LsliERffd99kBsYRlZT5YGFc+8YblI34myXEn8nOf64=",
   },
   "Downloading update...": {
@@ -1098,8 +1098,8 @@ const messages:IMessages = {
     h: "d6aKytFAPwPUzFOv41R0itfcMu11VdE29vkM05dnpBU=",
   },
   "Experimental": {
-    val: "Experimental",
-    translated: false,
+    val: "Eksperimentaalne",
+    translated: true,
     h: "no1ioBlGHyiDvTFwZWO0lttppGgYpgqTedbs4JRiNuo=",
   },
   "Export": {
@@ -1135,8 +1135,8 @@ const messages:IMessages = {
     h: "RPeWW9lCHkg+d6XybADj3OH2jxrYcSOhrA3+QHEcYz0=",
   },
   "File import": {
-    val: "File import",
-    translated: false,
+    val: "Faili import",
+    translated: true,
     h: "uC3CIunheYN1Vvqbcm4I0QpmFe3eLK7808KuuUw6LO4=",
   },
   "File import mapping": {
@@ -1329,8 +1329,8 @@ const messages:IMessages = {
     h: "/btREV6/jPJtrc1ERDwLUyJAowC8+v6gUB7bmJJYzT4=",
   },
   "If your bank supports SimpleFIN, this is the best option since it will likely be free and you won't have to give your credentials to anyone (including Buckets). Otherwise you may use a third party SimpleFIN server, which may not be free or private.": {
-    val: "If your bank supports SimpleFIN, this is the best option since it will likely be free and you won't have to give your credentials to anyone (including Buckets). Otherwise you may use a third party SimpleFIN server, which may not be free or private.",
-    translated: false,
+    val: "Kui su pank toetab SimpleFIN ühendust, on see parim variant, sest tõenäoliselt on see tasuta ja sa ei pea oma ligipääsuandmeid kellelegi jagama. Muul juhul pead kasutama kolmanda osapoole SimpleFIN serverit, mis ei pruugi olla tasuta ega privaatne.",
+    translated: true,
     h: "ddtHdP1npfHbcsMjibiZUwjzILkdwTF/wzcAVrm2yKw=",
   },
   "Ignore": {
@@ -1421,7 +1421,7 @@ const messages:IMessages = {
     h: "rjy01ggb0uSRPn/tmrf/BVwGQiXaaSc6Nh+o92BIU3U=",
   },
   "Income": {
-    val: "Sissetulek",
+    val: "Sissetulekud",
     translated: true,
     h: "D2fJbta5d1Z5QYuRC5zzkBHsItZOOgY4FKrFJ64BvRs=",
   },
@@ -1530,8 +1530,8 @@ const messages:IMessages = {
     h: "H6JLSQVzeo1QvqYd6ewWITP1MyGheSF5eFCeaP6nQwk=",
   },
   "Language default": {
-    val: "Keel vaikimisi",
-    translated: "auto",
+    val: "Keele vaikeseade",
+    translated: true,
     h: "B22VmGf23mHOBpC02z4zdK4P34035w3nWPUR86u0Dgg=",
   },
   "Last sync": {
@@ -1619,13 +1619,13 @@ const messages:IMessages = {
   },
   "Macro": {
     /* Noun describing a computer recording */
-    val: "Macro",
-    translated: false,
+    val: "Makro",
+    translated: true,
     h: "TTyp5ScQsIaeW/vglPPov+1Y6tg5/K4mKBuFR2wdDp8=",
   },
   "Macro deleted": {
     val: "Makro kustutatud",
-    translated: "auto",
+    translated: true,
     h: "XdtVcRU7RheAlhzK15asG/s7ppztkgXITjJQkM833Rw=",
   },
   "Macros": {
@@ -1651,8 +1651,8 @@ const messages:IMessages = {
   },
   "Manage": {
     /* Verb use to manage a connection */
-    val: "Manage",
-    translated: false,
+    val: "Halda",
+    translated: true,
     h: "tdUmovc9v6t8F6J7Qp3fY60LSxcLAqLTgQ7x1XMXHqI=",
   },
   "Mark Cleared": {
@@ -1749,7 +1749,7 @@ const messages:IMessages = {
   },
   "Move Account": {
     val: "Liiguta konto",
-    translated: "auto",
+    translated: true,
     h: "ybDQ63l83HcIPrlccbfuOBNxeGYsiDmXI3tyTZ7nKZI=",
   },
   "Move Bucket": {
@@ -2031,8 +2031,8 @@ const messages:IMessages = {
   },
   "OFF": {
     /* Label for toggle switch OFF */
-    val: "VÄLJA",
-    translated: "auto",
+    val: "VÄLJAS",
+    translated: true,
     h: "g0c9fS73Ra/6fEcgtA+AZ5QtmmCEO7dX81vP7YtzM4o=",
   },
   "OK": {
@@ -2043,7 +2043,7 @@ const messages:IMessages = {
   "ON": {
     /* Label for toggle switch ON */
     val: "SEES",
-    translated: "auto",
+    translated: true,
     h: "wZR/9OiLHV0XO5Mm9aURB4fbSWSyea2Z6CQce8Q14gU=",
   },
   "Off Budget Accounts": {
@@ -2429,7 +2429,7 @@ const messages:IMessages = {
   "Reverse": {
     /* Label for checkbox indicating that transactions should be imported in reverse order */
     val: "Tagurpidi",
-    translated: "auto",
+    translated: true,
     h: "asyh3SM4xzCuJwKJ77z/6mR7GortI9HKht5YBJYkHnk=",
   },
   "Run": {
@@ -2505,7 +2505,7 @@ const messages:IMessages = {
   },
   "Server": {
     val: "Server",
-    translated: false,
+    translated: true,
     h: "98Uj+bvfVRmVVyN2pOqdlxgm+wkALgm7TVgJgEGYOA0=",
   },
   "Services": {
@@ -2777,8 +2777,8 @@ const messages:IMessages = {
     h: "QP5fEqFwlvHWJyjzrIWUJFlMvhFDxxSsl1vnej/p30I=",
   },
   "This method connects to a SimpleFIN server to get transaction data.": {
-    val: "This method connects to a SimpleFIN server to get transaction data.",
-    translated: false,
+    val: "See meetod ühendub tehingute pärimiseks SimpleFIN serveriga.",
+    translated: true,
     h: "Zmn7+DJ5jSBES0aiPKUlEEvsrJWWUoeWAsydfoGZLqg=",
   },
   "This tool will delete data to make it easy to start over with your budget.": {
@@ -2843,12 +2843,12 @@ const messages:IMessages = {
   },
   "Transaction Type": {
     val: "Tehingu tüüp",
-    translated: "auto",
+    translated: true,
     h: "5OtdraZlT3YBh5NcgKxXigGdmDWur3wzuyeNvRd4mIM=",
   },
   "Transaction(s) deleted": {
     val: "Tehing(ud) kustutatud",
-    translated: "auto",
+    translated: true,
     h: "8umpuy0JiIWHWgMJdIJu2si38T6QhOVeI70IUVV/i3U=",
   },
   "Transactions": {
@@ -2964,7 +2964,7 @@ const messages:IMessages = {
   },
   "Unknown account deleted": {
     val: "Tundmatu konto kustutatud",
-    translated: "auto",
+    translated: true,
     h: "2db3S+9bmJWgpIWRAqHm8irdPTY5ZMEsdHeADQ7HdeQ=",
   },
   "Unknown category": {
@@ -3346,8 +3346,8 @@ const messages:IMessages = {
   },
   "account.ranking": {
     /* Account order label */
-    val: "Tellimus",
-    translated: "auto",
+    val: "Järjestus",
+    translated: true,
     h: "Ggkvvwng4JyzP26RBZ9LrevWhrb766Qq+yTffZWmefg=",
   },
   "account.starting_balance": {
@@ -3413,7 +3413,7 @@ const messages:IMessages = {
   "bank_macro.enabled": {
     /* Bank macro enabled flag label */
     val: "Lubatud",
-    translated: "auto",
+    translated: true,
     h: "hHztbKAreElTc7ttNUovJFG0DIq9xfILBM+1aNV8x2Q=",
   },
   "bank_macro.enc_recording": {
@@ -3647,7 +3647,7 @@ const messages:IMessages = {
   },
   "err": {
     val: "viga",
-    translated: "auto",
+    translated: true,
     h: "SjZnjAmjB+MXTE65uld0YUG2SmqBsMTAaeG4UnJgm4s=",
   },
   "error-detail": {
@@ -3874,13 +3874,10 @@ Kas soovid nüüd litsentsi osta?`,
     /* 1. Translate "newval: ..." */
     /* 2. Delete the old "val: ..." */
     /* 3. Rename "newval" to "val" */
-    newval: (start: string, end: string) => {
-          return `Syncing transactions from ${start} to ${end}`;
-        },
     val: (start: string, end: string) => {
-        return `Sünkroonin tehinguid alates ${start} kuni ${end}`;
-      },
-    translated: false,
+      return `Sünkroonin tehinguid alates ${start} kuni ${end}`;
+    },
+    translated: true,
     h: "kfgeaZeAfZyt8sVvXvqzEHDOD0Tak6EzY5KPcmFm/u0=",
   },
   "tab": {
